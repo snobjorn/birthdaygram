@@ -1,6 +1,14 @@
 # Birthdaygram
 
-## How to use
+## About
+
+React+Vite+TypeScript.
+
+## Getting started
+
+`npm install`
+
+## How to customize
 
 ### Page title
 
@@ -32,3 +40,7 @@ Customize the rest of the app through `settings.json` in `src/assets/`:
 - `credits`: Appear in dropdown when clickingthe 3 dot menu in upper right corner. Supports HTML
 - `commentsPlaceholder`: Text inside the input field on bottom of page
 - `commentsNotification`: Text appearing in notification when clicking the input field or Submit button
+
+## Deploy
+
+You might use Netlify or Vercel. Or anything else.
