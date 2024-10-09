@@ -4,7 +4,7 @@
 
 ### Page title
 
-Edit the `<title>` in `index.html` at root level.
+Edit the `<title>` in `index.html` at root level to your own name for the app.
 
 ### Images
 
