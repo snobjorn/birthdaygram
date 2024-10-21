@@ -1,5 +1,9 @@
 {
   "name": "birthdaygram",
+  "description": "A social media post looking birthday greetings site",
+  "author": "Asbjørn Ness <asbjorn.ness@gmail.com>",
+  "homepage": "https://www.asbjornness.no",
+  "license": "MIT",
   "private": true,
   "version": "1.0.0",
   "type": "module",
