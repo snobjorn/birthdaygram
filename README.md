@@ -1,6 +1,6 @@
 # Birthdaygram
 
-Demo at (https://birthdaygram.netlify.app/)[https://birthdaygram.netlify.app/]
+Demo at [https://birthdaygram.netlify.app/](https://birthdaygram.netlify.app/)
 
 ## About
 
